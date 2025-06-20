@@ -27,7 +27,7 @@ A Python script that scans IP addresses in a specified network range and logs op
 
 ## Results
 
-- IP and MAC Addresses: `Saved in ip_mac_log.txt.`
+- IP and MAC Addresses: Saved in `ip_mac_log.txt.`
 - Open Ports: Saved in `open_ports_log.txt.`
 
 ## Example
