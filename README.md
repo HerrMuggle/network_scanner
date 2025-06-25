@@ -22,7 +22,7 @@ A Python script that scans IP addresses in a specified network range and logs op
 1. Change permissions and run the script
    ```sh
    sudo chmod +x network_scanner.py
-   python3 network_scanner.py 
+   sudo python3 network_scanner.py 
    ```
 
 ## Results
